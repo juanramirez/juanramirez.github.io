@@ -14,7 +14,7 @@ Most of my projects have been developed for [the companies I've worked or I work
 
 **NeuroLink** is a project conceived at first as a personal rehab exercise after suffering a [brain tumor removal surgery](/abi/how-it-all-started/) in March 2020, and consequently _brain injury_ (also called [ABI](https://en.wikipedia.org/wiki/Acquired_brain_injury)); but also intended to help other people who can suffer this kind of experiences like me, now or in the future.
 
-**NeuroLink** aims to fill the big gap which both my wife and I realized that exists between medical release and rehabilitation by connecting all these kinds of people:
+**NeuroLink** aims to fill the big gap which seems to exist between medical release and rehabilitation by connecting all these kinds of people:
 * People who experience these kind of damage at first-hand (we will call them **patients** from now on).
 * People who care for them (**carers**), usually (but not always) their relatives. They also suffer from the patient's ABI, but _just in a different way_.
 * Neurology or neurological rehabilitation professionals, from doctors to practitioners (**professionals** from now on):
