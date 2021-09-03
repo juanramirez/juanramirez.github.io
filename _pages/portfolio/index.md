@@ -23,7 +23,7 @@ Most of my projects have been developed for [the companies I've worked or I work
 
 ### Tech stack and code organization
 
-**Neurolink** aims to be built using a [client-server architecture](https://en.wikipedia.org/wiki/Client%E2%80%93server_model).
+**Neurolink** is being built using a [client-server architecture](https://en.wikipedia.org/wiki/Client%E2%80%93server_model).
 
 #### Neurolink-server
 Neurolink-server is being built using Javascript, on top of [ExpressJS](https://expressjs.com). Check out the [GitHub repo](https://github.com/Inspiring-White/neurolink-server) for more details.
