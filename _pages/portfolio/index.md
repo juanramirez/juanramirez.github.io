@@ -30,7 +30,7 @@ Neurolink-server is being built using Javascript, on top of [ExpressJS](https://
 #### Neurolink-client
 Still to be done. Ideally, I plan it to have both desktop and mobile web clients. This would allow using it as a standalone webpage or modelling webviews for mobile applications, for example.
 
-#On-duty-organizer
+# On-duty-organizer
 
 <img src="/images/projects/doctorplan/logo.png" alt="On-duty organizer" width="200"/>
 
