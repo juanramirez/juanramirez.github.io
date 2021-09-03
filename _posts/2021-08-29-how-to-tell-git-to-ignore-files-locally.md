@@ -8,8 +8,8 @@ twitter-card-image: "/assets/images/git_logo.png"
 excerpt: "Excluding files for being versioned in Git is easy through the use of the widely known .gitignore file. But maybe you don't really want to use it."
 ---
 
-**Note:** This post has been recovered from my archive after having been lost [due to my brain injury](http://localhost:4000/abi/about-me/hello-and-welcome/). It was originally posted on August 1st, 2017.
-{: .notice--warning}
+**Note:** This post has been recovered from my archive after having been lost [due to my brain injury](http://localhost:4000/abi/about-me/hello-and-welcome/). It was originally posted in my old development blog on August 1st, 2017.
+{: .notice--info}
 
 Excluding files for being versioned in Git is easy [through the use of the widely known `.gitignore` file](https://git-scm.com/docs/gitignore).
 
