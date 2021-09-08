@@ -1,5 +1,5 @@
 ---
-title: "7 tips to have your code better reviewed"
+title: "7 tips to have your code better reviewed (recovered post)"
 date: 2021-08-29 13:30:00 +0200
 tags:
   - code review
