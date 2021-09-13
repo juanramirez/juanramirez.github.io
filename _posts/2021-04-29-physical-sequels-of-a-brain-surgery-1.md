@@ -1,5 +1,5 @@
 ---
-title: "Physical sequels of a brain surgery (I) (moved post)"
+title: "Physical sequels of a brain surgery (I)"
 date: 2021-04-29 13:00:00 +0200
 tags:
   - Physical_sequels

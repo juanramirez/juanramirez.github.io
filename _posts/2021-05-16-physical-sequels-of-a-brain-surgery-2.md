@@ -1,5 +1,5 @@
 ---
-title: "Physical sequels of a brain surgery (II) (moved post)"
+title: "Physical sequels of a brain surgery (II)"
 date: 2021-05-16 13:00:00 +0200
 tags:
   - Physical rehab
