@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/authors/bio-juan-color.jpeg"
   bio    : "Software developer working at Telefonica. I write both about software development and about ABI, as directly affected since March 2020."
   links:
-    - label: "About me"
+    - label: "About"
       icon: "fas fa-fw fa-link"
-      url: "/about-me/"
+      url: "/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JuanRamirezRuiz"
