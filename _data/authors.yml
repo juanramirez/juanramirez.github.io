@@ -1,0 +1,26 @@
+---
+Juan Ramírez:
+  name: "Juan Ramírez"
+  bio: "Software developer working at Telefónica. I write both about software development and about ABI, as directly affected since March 2020."
+  avatar: "/assets/images/authors/bio-juan.jpg" 
+  links:
+    - label: "About me"
+      icon: "fas fa-fw fa-link"
+      url: "/about/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JuanRamirezRuiz"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/juanramirez"
+Blanca Molina:
+  name: "Blanca Molina"
+  bio: "Doctor (pediatrician) and Juan's wife."
+  avatar: "assets/images/authors/bio-blanca.jpeg"
+  links:
+    - label: "About me"
+      icon: "fas fa-fw fa-link"
+      url: "/about/blanca-molina/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DoctoraBlanca"
