@@ -1,9 +1,27 @@
 ---
+layout: single
+classes:
+  - landing
+  - wide
+  - dark-theme
 permalink: /about/
-title: "About"
-redirect: /abi/about-me/hello-and-welcome/
+hidden: true
+feature_row:
+  - image_path: /assets/images/authors/bio-juan-color.jpeg
+    alt: "About me"
+    title: "About me"
+    excerpt: "Get to know me! A brief presentation"
+    url: "/abi/about-me/hello-and-welcome/"
+    btn_class: "btn--info"
+    btn_label: "Read it"
+  - image_path: /assets/images/authors/bio-blanca.jpeg
+    alt: "About Blanca"
+    title: "About Blanca"
+    excerpt: "Who's Blanca and why does she write here"
+    url: "/about/blanca-molina"
+    btn_class: "btn--success"
+    btn_label: "Learn more"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<div class="padding-md">
+{% include feature_row %}
