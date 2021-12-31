@@ -2,11 +2,15 @@
 title: "Goodbye and thank you, 2021! Welcome, 2022!"
 date: 2021-12-31 09:00:00 +0200
 tags:
-  - sequels
+  - ABI
+  - projects
   - rehabilitation
-excerpt: "2021 has been the year when I started to accept (and even celebrate!) my new status as ABI affected (and survivor). It's not a little thing. ABI is shocking for anyone who suffers from it, but it can be also the beginning of a different, new and better (yes, better!) life. 2022 should be the year when I can consider myself more or less _recovered_ from my ABI and be able to return to more or less _normal life_.
+twitter-card-image: "/assets/images/posts/2021-12-31-goodbye-and-thank-you-2021-welcome-2022.jpg"
+excerpt: "2021 has been the year when I started to accept (and even celebrate!) my new status as ABI affected (and survivor). It's not a little thing. ABI is shocking for anyone who suffers from it, but it can be also the beginning of a different, new and better (yes, better!) life. 2022 should be the year when I can consider myself more or less _recovered_ from my ABI and be able to return to more or less _normal life_."
 
 ---
+
+![welcome-2022](/assets/images/posts/2021-12-31-goodbye-and-thank-you-2021-welcome-2022.png)
 
 2021 has been the year when I started to accept (and even celebrate!) my new status as ABI affected (and survivor). It's not a little thing. **ABI is shocking** for anyone who suffers from it, but it can also be the beginning of a different, new and better (yes, **better**!) life. A life where one can learn to identify his or her weaknesses and strenghts, how to transform weaknesses into strenghts and how to use the latter to compensate the former.
 
