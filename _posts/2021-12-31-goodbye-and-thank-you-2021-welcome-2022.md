@@ -14,6 +14,6 @@ excerpt: "2021 has been the year when I started to accept (and even celebrate!) 
 
 2021 has been a _transition year_. During this year I started to be more independent. I started, somehow, **to be me again**. I hope 2022 to be the year when I can start to consider myself _recovered_ from my ABI (at least when I can consider my rehabilitation more or less _over_) and when I can return to more or less _normal life_. Yes, I know I'm different after all this, but someway **we're always different** as time doesn't stops and every experience makes us different.
 
-Next year should be the year when I hopefully __just go on with my life__ after this really overwhelming experience. I know it will not be exactly the same as before, but I want to think that _it doesn't really matter so much_ since I don't really remember so exactly how my life was in the past ¯\\_(ツ)_/¯
+Next year should be the year when I hopefully __just go on with my life__ after this really overwhelming experience. I know it will not be exactly the same as before, but I want to think that _it doesn't really matter so much_ since I don't really remember so exactly how my life was in the past ¯\\\_(ツ)\_/¯
 
 So let's go on! I wish you everyone a **happy 2022!** :)
